@@ -21,7 +21,4 @@
 3. Paste to `Steam/steamapps/common/Mount & Blade II Bannerlord/Modules/` folder
 4. Enable the mod in Bannerlord launcher
 
-## Contact
-- **Blog:** [Bytearch Dev](https://bytearch.dev)
-- **Telegram:** [@bytearchdev](https://t.me/bytearchdev)
-- **Email:** [BytearchDEV](bytearchsoft@gmail.com)
+👉 Full tutorial and explanation available on my blog: [Bytearch DEV](https://bytearch.hashnode.dev)
