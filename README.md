@@ -61,5 +61,5 @@ Feel free to open pull requests and issues.
 ## Contacts
 - Blog: [Bytearch Dev](https://bytearch.hashnode.dev)
 - Telegram: [@bytearchdev](https://t.me/bytearchdev)
-- Email: [BytearchDEV](bytearchsoft@gmail.com)
+- Email: bytearchsoft@gmail.com
 - GitHub: [@bolgac](https://github.com/bolgac/)
