@@ -5,7 +5,7 @@
 ![C#](https://img.shields.io/badge/C%23-8.0-green)
 
 This repository contains the full source code for **Mount & Blade II: Bannerlord** modding guides. Each project is directly aligned with the articles published on the Bytearch Dev blog.
-👉 For detailed tutorials and articles, visit my blog: [BytearchDEV](bytearch.hashnode.dev)
+- For detailed tutorials and articles, visit my blog: [BytearchDEV](bytearch.hashnode.dev)
 
 ## 📚 Guide List
 
