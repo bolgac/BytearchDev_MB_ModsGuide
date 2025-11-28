@@ -28,16 +28,17 @@ This repository contains the full source code for **Mount & Blade II: Bannerlord
 4. Enable the mod from the Bannerlord launcher  
 
 ## Project Structure
-├── Bannerlord-Modding-Guides/\
-├────  ModBasic1/\
-│     ├── Bin/\
-│     │   └── Win64_Shipping_Client/\
-│     │       └── MyFirstMod.dll\
-│     ├── ModBasic1/\
-│     ├── ModBasic1.csproj\
-│     ├── SubModule.xml\
-│     └── README.md\
-
+```
+├── Bannerlord-Modding-Guides/
+├────  ModBasic1/
+│     ├── Bin/
+│     │   └── Win64_Shipping_Client/
+│     │       └── MyFirstMod.dll
+│     ├── ModBasic1/
+│     ├── ModBasic1.csproj
+│     ├── SubModule.xml
+│     └── README.md
+```
 ## Purpose
 This repository contains **guide-level modding examples** for Mount & Blade II: Bannerlord.  
 Each folder contains a different mod example (for example: *ModBasic1*, *ModBasic2*). The codes are intended for learning and community sharing.
