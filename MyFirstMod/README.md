@@ -16,7 +16,7 @@
 - Bannerlord Modding Kit
 
 ### Installation
-1. Compile the project (Release, x64)
+1. Download the file and extract it from the zip
 2. Copy MyFirstMod folder
 3. Paste to `Steam/steamapps/common/Mount & Blade II Bannerlord/Modules/` folder
 4. Enable the mod in Bannerlord launcher
