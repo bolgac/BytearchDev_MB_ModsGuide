@@ -1,0 +1,7 @@
+D:\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\MyFirstMod\Bin\Win64_Shipping_Client\MyFirstMod.dll
+D:\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\MyFirstMod\Bin\Win64_Shipping_Client\MyFirstMod.pdb
+D:\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\MyFirstMod\MyFirstMod\obj\Debug\MyFirstMod.csproj.AssemblyReference.cache
+D:\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\MyFirstMod\MyFirstMod\obj\Debug\MyFirstMod.csproj.CoreCompileInputs.cache
+D:\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\MyFirstMod\MyFirstMod\obj\Debug\MyFirstMod.csproj.Up2Date
+D:\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\MyFirstMod\MyFirstMod\obj\Debug\MyFirstMod.dll
+D:\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\MyFirstMod\MyFirstMod\obj\Debug\MyFirstMod.pdb
