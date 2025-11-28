@@ -13,7 +13,7 @@
 ### Requirements
 - Visual Studio 2022
 - .NET Framework 4.7.2  
-- Bannerlord Modding Kit
+- Bannerlord
 
 ### Installation
 1. Download the file and extract it from the zip
