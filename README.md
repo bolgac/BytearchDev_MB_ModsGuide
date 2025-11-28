@@ -6,7 +6,7 @@
 
 This repository contains the full source code for **Mount & Blade II: Bannerlord** modding guides. Each project is directly aligned with the articles published on the Bytearch Dev blog.
 
-## Guide List
+## 📚 Guide List
 
 | Project | Level | Description | Blog Post |
 |---------|-------|-------------|-----------|
