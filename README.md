@@ -11,7 +11,7 @@ This repository contains the full source code for **Mount & Blade II: Bannerlord
 
 | Project | Level | Description | Blog Post |
 |---------|-------|-------------|-----------|
-| [`MyFirstMod`](./MyFirstMod) | 🟢 Beginner | Create your first Bannerlord mod | [First Mod Guide](https://bytearch.dev/getting-started-with-bannerlord-moddingi) |
+| [`MyFirstMod`](./MyFirstMod) | 🟢 Beginner | Create your first Bannerlord mod | [First Mod Guide](https://bytearch.hashnode.dev/getting-started-with-bannerlord-modding) |
 | *More coming soon...* | | | |
 
 ## Quick Start
